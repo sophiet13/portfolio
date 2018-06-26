@@ -1,0 +1,27 @@
+
+h1{
+	font-size:50px;
+	margin: 5px;
+}
+
+h2{	
+	color:orange;
+}
+
+.border {
+	border-radius: 25px;
+}
+
+nav a {
+	text-decoration: none; 
+	padding: 10px 10px 10px 0px;
+}
+
+a:hover {
+	background-color: orange
+}
+body {
+	padding:20px;
+	font-family: "Barlow Semi Condensed";
+}
+
