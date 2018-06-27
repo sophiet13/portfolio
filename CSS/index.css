@@ -8,9 +8,10 @@ h2{
 	color:orange;
 }
 
-.border {
+.images {
 	border-radius: 25px;
 	margin-top: 10px;
+	width: 400px;
 }
 
 nav a {
@@ -23,6 +24,6 @@ a:hover {
 }
 body {
 	padding:20px;
-	font-family: "Barlow Semi Condensed";
+	font-family: 'Quicksand', sans-serif;
 }
 
