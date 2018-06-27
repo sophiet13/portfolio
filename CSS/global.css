@@ -5,18 +5,22 @@
 
 	h1 {
 		font-size: 50px;
-		margin: 5px;
+		padding-top: 5px;
 		padding-bottom: 5px;
-		border-bottom: 1px solid orange;
+		border-bottom: 1px solid #565264;
+		color: #D55672
 	}
 
 	h2 {	
-		color: orange;
+		color: #D496A7
 	}
 
-	.images {
+	h3 {
+		color: #565264
+	}
+	.images-curved-edges {
 		border-radius: 25px;
-		margin-top: 10px;
+		margin-top: 5px;
 		width: 350px;
 		padding: 10px;
 	}
@@ -24,12 +28,13 @@
 	nav a {
 		text-decoration: none; 
 		padding: 10px;
-		border: 1px solid orange;
-		margin-left: 10px;
+		border: 2px solid #D496A7;
+		margin-right: 5px;
+		margin-bottom: 5px;
 	}
 
 	a:hover {
-		background-color: orange;
+		background-color: #D496A7;
 	}
 
 
